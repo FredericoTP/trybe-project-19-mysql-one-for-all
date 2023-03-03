@@ -1,5 +1,3 @@
--- Descomente e altere as linhas abaixo:
-
 CREATE TABLE SpotifyClone.cancoes_favoritas(
     usuario_id INT,
     cancao_id INT,
