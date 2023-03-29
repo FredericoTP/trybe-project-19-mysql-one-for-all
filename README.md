@@ -84,7 +84,7 @@ O resultado deve possuir duas colunas:
 
 ## 100% :heavy_check_mark:
 
-![Project-Mysql-One-for-All]()
+![Project-Mysql-One-for-All](https://raw.githubusercontent.com/FredericoTP/trybe-project-19-mysql-one-for-all/main/images/OneForAll-grade.png)
 
 </details>
 <br />
